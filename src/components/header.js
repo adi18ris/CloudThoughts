@@ -39,12 +39,11 @@ class Header extends React.Component {
     this.setState({ value })
   }
   checkPath = () => {
-    if (location.pathname === withPrefix('/about-us')) {
+    if (window.location.pathname === withPrefix('/about-us')) {
       this.setState({ value: 1 })
     }
   }
   render() {
-    console.log(location.pathname)
     const { classes } = this.props
     const { value } = this.state
 

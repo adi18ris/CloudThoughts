@@ -1,6 +1,6 @@
 ---
-path: "/Blog-1"
-date: "2017-07-12T17:12:33.962Z"
+path: "/WhatIsCloud"
+date: "2018-04-12T17:12:33.962Z"
 title: "What is Cloud Computing"
 author: "Aditya Risbud"
 ---

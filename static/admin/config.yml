@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: kanherepratik/gatsby-site #replace with your username/repo
+  repo: adi18ris/CloudThoughts #replace with your username/repo
 
 media_folder: static/assets
 publish_mode: editorial_workflow
